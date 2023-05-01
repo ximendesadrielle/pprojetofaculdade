@@ -3,8 +3,9 @@ h1 {
 }
 
 * {
-    background-color: rgb(252, 234, 246);
+    background-color: #8d5d78;
     padding-top: 7px;
+    color: aliceblue;
 }
 
 img {
@@ -17,7 +18,7 @@ p {
 
 h2 {
     text-align: center;
-    background-color: rgb(221, 150, 197);
+    background-color: rgb(92, 11, 65);
     border-radius: 25px;
     padding: 12px;
 }
